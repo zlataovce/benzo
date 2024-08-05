@@ -49,10 +49,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@cloudflare/workers-types@npm:^4.20240614.0":
-  version: 4.20240614.0
-  resolution: "@cloudflare/workers-types@npm:4.20240614.0"
-  checksum: 10c0/e088ba3df4a54822d53f602b7f362c1e82d7c9b2f5d74e9b1b98006221802093e4830a6c140a8e04a3730916ccf6929598c0d9575761b62a9161a3d242ceb8bf
+"@cloudflare/workers-types@npm:^4.20240729.0":
+  version: 4.20240729.0
+  resolution: "@cloudflare/workers-types@npm:4.20240729.0"
+  checksum: 10c0/5759d0f091c875702674652fb3a2449d991fb3d6cc1314d793b8c9d2f58843da7a81f7d88dd3ee45758e912cd1bc289fd6fbc35686ee2a70b85bff98eb046a98
   languageName: node
   linkType: hard
 
@@ -441,7 +441,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "benzo@workspace:."
   dependencies:
-    "@cloudflare/workers-types": "npm:^4.20240614.0"
+    "@cloudflare/workers-types": "npm:^4.20240729.0"
     "@noble/ed25519": "npm:^2.1.0"
     cheerio: "npm:^1.0.0-rc.12"
     discord-api-types: "npm:^0.37.89"
